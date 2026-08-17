@@ -2,7 +2,7 @@
 
 专注于投资与科技领域的深度内容平台。不追逐热点，不迎合情绪，不依赖算法分发。
 
-欢迎投稿：如果你有关于科技公司商业模式、行业格局或投资逻辑的深度分析，欢迎通过 [GitHub Issues](https://github.com/b0sH1wOw/xundao/issues) 提交你的文章。
+欢迎投稿：如果你有关于投资和科技方面的深度分析，欢迎通过 [GitHub Issues](https://github.com/b0sH1wOw/xundao/issues) 提交你的文章。
 
 ## 文章列表
 

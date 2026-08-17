@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [茅台“被时代抛弃了”吗？](https://xundao.org/articles/zjAHhZUb-iuOM) | 2026-08-17 | 贵州茅台 / 价值投资 / 白酒行业 / 估值重塑 |
 | [Anthropic的“安全”护城河](https://xundao.org/articles/0lsNzcWW-cKKj) | 2026-08-15 | Anthropic / AI安全 / 合规霸权 |
 | [从需求到供给：AI时代竞争逻辑的转向](https://xundao.org/articles/fmTMBgcn-8UUY) | 2026-08-14 | 苹果 / 亚马逊 / 推理成本 / 供给侧瓶颈 |
 | [算力基建的“债务临界点”](https://xundao.org/articles/eAFqNKz6-HrZ3) | 2026-08-13 | AI算力 / 资本开支 / 英伟达 / 商业模式 |

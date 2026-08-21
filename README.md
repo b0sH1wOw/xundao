@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [从AI文字水印看大模型公司护城河](https://xundao.org/articles/y2hOWzrQ-Z2SN) | 2026-08-22 | Anthropic / OpenAI / Google / AI文字水印 |
 | [宇树科技与具身智能的“生存法则”](https://xundao.org/articles/dRmsjoi5-l8QZ) | 2026-08-19 | 宇树科技 / 具身智能 / 人形机器人 / 硬件降本 |
 | [茅台“被时代抛弃了”吗？](https://xundao.org/articles/zjAHhZUb-iuOM) | 2026-08-17 | 贵州茅台 / 价值投资 / 白酒行业 / 估值重塑 |
 | [Anthropic的“安全”护城河](https://xundao.org/articles/0lsNzcWW-cKKj) | 2026-08-15 | Anthropic / AI安全 / 合规霸权 |

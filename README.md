@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [企业AI落地的现实阻力](https://xundao.org/articles/qjgfvhjd-0YNQ) | 2026-08-24 | AI落地 / 企业转型 / 组织行为学 |
 | [从AI文字水印看大模型公司护城河](https://xundao.org/articles/y2hOWzrQ-Z2SN) | 2026-08-22 | Anthropic / OpenAI / Google / AI文字水印 |
 | [宇树科技与具身智能的“生存法则”](https://xundao.org/articles/dRmsjoi5-l8QZ) | 2026-08-19 | 宇树科技 / 具身智能 / 人形机器人 / 硬件降本 |
 | [茅台“被时代抛弃了”吗？](https://xundao.org/articles/zjAHhZUb-iuOM) | 2026-08-17 | 贵州茅台 / 价值投资 / 白酒行业 / 估值重塑 |

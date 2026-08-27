@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [NVIDIA的630亿美元“欠条”](https://xundao.org/articles/FqNKz6Hr-Z3Qs) | 2026-08-27 | NVIDIA / AI算力 / 买方信贷 |
 | [企业AI落地的现实阻力](https://xundao.org/articles/qjgfvhjd-0YNQ) | 2026-08-24 | AI落地 / 企业转型 / 组织行为学 |
 | [从AI文字水印看大模型公司护城河](https://xundao.org/articles/y2hOWzrQ-Z2SN) | 2026-08-22 | Anthropic / OpenAI / Google / AI文字水印 |
 | [宇树科技与具身智能的“生存法则”](https://xundao.org/articles/dRmsjoi5-l8QZ) | 2026-08-19 | 宇树科技 / 具身智能 / 人形机器人 / 硬件降本 |

@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [单兆瓦营收——AI算力的新硬通货](https://xundao.org/articles/QsyzC7Cn-X6Uh) | 2026-08-31 | AI算力 / 单兆瓦营收 / 云巨头 |
 | [NVIDIA的630亿美元“欠条”](https://xundao.org/articles/FqNKz6Hr-Z3Qs) | 2026-08-27 | NVIDIA / AI算力 / 买方信贷 |
 | [企业AI落地的现实阻力](https://xundao.org/articles/qjgfvhjd-0YNQ) | 2026-08-24 | AI落地 / 企业转型 / 组织行为学 |
 | [从AI文字水印看大模型公司护城河](https://xundao.org/articles/y2hOWzrQ-Z2SN) | 2026-08-22 | Anthropic / OpenAI / Google / AI文字水印 |

@@ -8,6 +8,8 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [算力即货币——Meta降价92%背后的逻辑](https://xundao.org/articles/PTRim6pa-fmTM) | 2026-09-04 | Meta / AI定价策略 / 数据套利 / 算力经济学 |
+| [前沿AI的大分化与英伟达的“开源算盘”](https://xundao.org/articles/fH6RJLeA-FqNK) | 2026-09-02 | AI分化 / 英伟达 / 开源生态 / CUDA |
 | [单兆瓦营收——AI算力的新硬通货](https://xundao.org/articles/QsyzC7Cn-X6Uh) | 2026-08-31 | AI算力 / 单兆瓦营收 / 云巨头 |
 | [NVIDIA的630亿美元“欠条”](https://xundao.org/articles/FqNKz6Hr-Z3Qs) | 2026-08-27 | NVIDIA / AI算力 / 买方信贷 |
 | [企业AI落地的现实阻力](https://xundao.org/articles/qjgfvhjd-0YNQ) | 2026-08-24 | AI落地 / 企业转型 / 组织行为学 |

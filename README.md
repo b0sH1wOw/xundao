@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [当AGI不再是一个法律问题](https://xundao.org/articles/OTn0IW4x-ozA2) | 2026-09-06 | OpenAI / AGI / 微软 / AI安全 ｜
 | [AI基建4万亿的债务杠杆](https://xundao.org/articles/i0cHe8ci-xK7T) | 2026-09-05 | AI基建 / 债务杠杆 / 宏观信用 |
 | [算力即货币——Meta降价92%背后的逻辑](https://xundao.org/articles/PTRim6pa-fmTM) | 2026-09-04 | Meta / AI定价策略 / 数据套利 / 算力经济学 |
 | [前沿AI的大分化与英伟达的“开源算盘”](https://xundao.org/articles/fH6RJLeA-FqNK) | 2026-09-02 | AI分化 / 英伟达 / 开源生态 / CUDA |

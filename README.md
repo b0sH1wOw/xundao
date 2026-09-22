@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [不说话的 AI，即将赚走更高的毛利](https://xundao.org/articles/zs00cVpt-O80D) | 2026-09-23 | Jev / SemIf / 机器原生 / 毛利率重构 |
 | [苹果是在商品化 AI，还是被 AI 商品化？](https://xundao.org/articles/dBTXxHXd-W8Xu) | 2026-09-21 | 苹果 / iPhone Duo / AI战略 |
 | [茅台跌了，但生意还在](https://xundao.org/articles/xpFkwOZ5-cX4q) | 2026-09-16 | 贵州茅台 / 白酒行业 / 基本面 / 价值投资 |
 | [AI的3倍生产力，是智力提升还是三班倒？](https://xundao.org/articles/z6HrZ3Qs-yzC7) | 2026-09-11 | AI生产力 / OpenAI / 智能体 |

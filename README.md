@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [AI巨头“减速”叙事的资本真相](https://xundao.org/articles/MMW2GHWZ-AVwy) | 2026-09-27 | Anthropic / OpenAI / AI减速叙事 / AI泡沫 |
 | [AI 的钱不在最聪明的地方](https://xundao.org/articles/XR3RZYiZ-yFEe) | 2026-09-24 | AI经济学 / 前沿模型 / 开源模型 / 定价策略 |
 | [不说话的 AI，即将赚走更高的毛利](https://xundao.org/articles/zs00cVpt-O80D) | 2026-09-23 | Jev / SemIf / 机器原生 / 毛利率重构 |
 | [苹果是在商品化 AI，还是被 AI 商品化？](https://xundao.org/articles/dBTXxHXd-W8Xu) | 2026-09-21 | 苹果 / iPhone Duo / AI战略 |

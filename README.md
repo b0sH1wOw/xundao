@@ -8,6 +8,7 @@
 
 | 标题 | 发布时间 | 标签 |
 |------|----------|------|
+| [紫金矿业：金铜双轨下的估值拉锯](https://xundao.org/articles/j1ohji23-rPYM) | 2026-09-28 | 紫金矿业 / 有色金属 / 黄金 / 铜 |
 | [AI巨头“减速”叙事的资本真相](https://xundao.org/articles/MMW2GHWZ-AVwy) | 2026-09-27 | Anthropic / OpenAI / AI减速叙事 / AI泡沫 |
 | [AI 的钱不在最聪明的地方](https://xundao.org/articles/XR3RZYiZ-yFEe) | 2026-09-24 | AI经济学 / 前沿模型 / 开源模型 / 定价策略 |
 | [不说话的 AI，即将赚走更高的毛利](https://xundao.org/articles/zs00cVpt-O80D) | 2026-09-23 | Jev / SemIf / 机器原生 / 毛利率重构 |
